@@ -31,4 +31,5 @@ pip install art
 
 1. Navigate to the cloned repository:
 cd shariff 
+## run
 python3 shariff.py
