@@ -24,6 +24,7 @@ git clone https://github.com/Royalboy2000/shariff.git
 
 2. Install the required packages:
 sudo apt-get install -y nmap nikto 
+## art dependency
 pip install art 
 
 ## Usage
