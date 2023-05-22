@@ -3,7 +3,7 @@ import os
 from art import *
 
 def display_logo():
-    logo = text2art("Shariff", font='starwars')
+    logo = text2art("Shariff", font='poison')
     print(logo)
     print("_______________________________")
     print("|                             |")
