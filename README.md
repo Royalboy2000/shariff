@@ -1,6 +1,6 @@
 # Shariff - Website Recon Tool
 
-# Shariff
+## Shariff
 
 Shariff is a Python script that provides various tools for performing reconnaissance on a website. It allows you to perform different scans and checks to gather information about the target website.
 
@@ -21,18 +21,15 @@ Shariff is a Python script that provides various tools for performing reconnaiss
 - Nikto
 - searchsploit
 - sqlmap
-- wpscan token 
+- wpscan token
 - wpscan tool
 
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/Royalboy2000/shariff.git
 
-2. Install the required packages:
-sudo apt-get install -y nmap nikto sqlmap 
-## art dependency
-pip install art 
+   ```bash
+   git clone https://github.com/Royalboy2000/shariff.git
 
 ## Usage
 
