@@ -34,6 +34,12 @@ Shariff is a Python script that provides various tools for performing reconnaiss
 ## Usage
 
 1. Navigate to the cloned repository:
-cd shariff 
+
+
+   ```bash
+   cd shariff
 ## run
+
+
+   ```bash
 python3 shariff.py
