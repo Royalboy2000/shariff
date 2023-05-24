@@ -1,14 +1,18 @@
 # Shariff - Website Recon Tool
 
-Shariff is a command-line tool for performing website reconnaissance. It utilizes popular security tools like Nmap, Nikto, and searchsploit to scan and gather information about a target website.
+# Shariff
+
+Shariff is a Python script that provides various tools for performing reconnaissance on a website. It allows you to perform different scans and checks to gather information about the target website.
 
 ## Features
 
-- Nmap port scanning to discover open ports and services.
-- Nikto vulnerability scanning to identify potential security vulnerabilities.
-- Version detection and exploit search using searchsploit.
-- Interactive prompt to choose which tools to use.
-- Ability to repeat scans or exit the tool.
+- Nmap port scanning
+- Nikto vulnerability scanning
+- Exploit search
+- WordPress website vulnerability check
+- WordPress password brute-forcing
+- SQL injection database crawling
+- SQL injection RCE (Remote Code Execution)
 
 ## Requirements
 
@@ -16,6 +20,9 @@ Shariff is a command-line tool for performing website reconnaissance. It utilize
 - Nmap
 - Nikto
 - searchsploit
+- sqlmap
+- wpscan token 
+- wpscan tool
 
 ## Installation
 
@@ -23,7 +30,7 @@ Shariff is a command-line tool for performing website reconnaissance. It utilize
 git clone https://github.com/Royalboy2000/shariff.git
 
 2. Install the required packages:
-sudo apt-get install -y nmap nikto 
+sudo apt-get install -y nmap nikto sqlmap 
 ## art dependency
 pip install art 
 
