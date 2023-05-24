@@ -29,7 +29,11 @@ Shariff is a Python script that provides various tools for performing reconnaiss
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Royalboy2000/shariff.git
+git clone https://github.com/Royalboy2000/shariff.git
+ 
+## installing dependency 
+  ```bash
+sudo apt-get install -y python3 nmap nikto exploitdb sqlmap && pip install wpscan
 
 ## Usage
 
@@ -37,7 +41,7 @@ Shariff is a Python script that provides various tools for performing reconnaiss
 
 
    ```bash
-   cd shariff
+cd shariff
 ## run
 
 
