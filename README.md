@@ -36,4 +36,4 @@ Shariff is a Python script that provides various tools for performing reconnaiss
   ```bash
     sudo apt-get install -y python3 nmap nikto exploitdb sqlmap && pip install wpscan 
     cd shariif 
-    python shariff.py
+    python3 shariff.py
